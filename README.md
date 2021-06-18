@@ -6,9 +6,9 @@ In May 2021, the BBC Shared Data Unit worked with Newsbeat and BBC Radio Wales t
 
 Stalking Protection Orders (SPOs) are a civil power available to police which impose restrictions on suspected stalkers. 
 
-But data shows the use of SPOs, which have been available to police forces in England and Wales since January 2020, varies widely from force to force, with four failing to apply for a single order in the past fifteen months. 
+But data showed the use of SPOs, which had been available to police forces in England and Wales since January 2020, varied widely from force to force, with four failing to apply for a single order in the previous fifteen months. 
 
-We also analysed [national crime outcomes data](https://www.gov.uk/government/statistics/police-recorded-crime-open-data-tables) which showed the number of stalking incidents recorded by police has surged in the last five years, with more than half of all police forces in England and Wales seeing stalking incidents double since 2019.
+We also analysed [national crime outcomes data](https://www.gov.uk/government/statistics/police-recorded-crime-open-data-tables) which showed the number of stalking incidents recorded by police had surged in the previous five years, with more than half of all police forces in England and Wales seeing stalking incidents double since 2019.
 
 The Home Office said it would meet with police chiefs to review their use of the orders.
 
@@ -41,7 +41,7 @@ The data and background methodology released to partners are available here:
 * Katy Bourne - Sussex Police and Crime Commissioner and stalking victim
 * Home office comment
 * The National Police Chief's Council comment
-*Comments from police forces who hadn’t issued any SPOs before the date specified in column G of our spreadsheet:
+* Comments from police forces who hadn’t issued any SPOs before the date specified in column G of our spreadsheet:
 
   * Humberside
   * Thames Valley
