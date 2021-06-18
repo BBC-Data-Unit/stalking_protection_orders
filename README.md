@@ -52,24 +52,24 @@ The data and background methodology released to partners are available here:
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
-* [Bradford Telegraph & Argus](https://www.thetelegraphandargus.co.uk/news/19376883.concerns-low-use-stalking-protection-orders-west-yorkshire/)
-* [Derby Telegraph](https://www.derbytelegraph.co.uk/news/derbyshire-police-not-using-stalking-5523734)
-* [Devon Live](https://www.devonlive.com/news/devon-news/police-could-better-help-increasing-5530766)
-* [Dorset Echo](https://www.dorsetecho.co.uk/news/19372410.dorset-police-not-enough-protect-stalking-victims/)
-* [East Anglian Daily Time](https://www.eadt.co.uk/news/crime/stalking-orders-issued-in-suffolk-8056668)
-* [Eastern Daily Press](https://www.eadt.co.uk/news/crime/norfolk-police-ridiculous-failure-stalking-protection-orders-8060318)
-* [Gelding Eye](https://www.gedlingeye.co.uk/nottinghamshire/stalking-incidents-rise-rapidly-across-notts/)
-* [Hampshire Chronicl](https://www.hampshirechronicle.co.uk/news/crime/19372518.hampshire-police-fail-use-special-powers-crack-stalking/)
-* [Huddersfield Daily Examiner](https://www.examinerlive.co.uk/news/local-news/reports-stalking-south-yorkshire-increased-20814113)
-* [Ipswich Star](https://www.ipswichstar.co.uk/news/crime/stalking-orders-issued-in-suffolk-8056668)
-* [ITV Tyne Tees](https://www.itv.com/news/tyne-tees/2021-06-15/north-east-police-forces-used-stalking-protection-orders-only-10-times-despite-incidents-rising)
-* [Lancashire Telegraph](https://www.lancashiretelegraph.co.uk/news/19365965.lancashire-police-fail-use-legal-powers-2000-stalking-cases/?ref=rss)
-* [Northampton Chronicle](https://www.northamptonchron.co.uk/news/crime/northamptonshire-police-has-used-new-power-to-protect-stalking-victims-just-once-amid-a-surge-in-offences-3275689)
-* [Southern Daily Echo](https://www.dailyecho.co.uk/news/crime/19372136.hampshire-police-fail-use-special-powers-crack-stalking/)
-* [Suffolk News](https://www.suffolknews.co.uk/ipswich/news/new-legal-power-to-protect-stalking-victims-not-used-once-by-9203262/)
-* [Yorkshire Evening Post](https://www.yorkshireeveningpost.co.uk/news/crime/west-yorkshire-police-force-issue-just-three-stalking-protection-orders-despite-recording-more-than-3000-offences-3272767)
-* [Yorkshire Live](https://www.examinerlive.co.uk/news/local-news/reports-stalking-south-yorkshire-increased-20814113)
-* [Yorkshire Post](https://www.yorkshirepost.co.uk/news/crime/thousands-of-stalking-incidents-reported-to-yorkshire-police-last-year-but-only-small-handful-resulted-in-legal-protection-orders-3272732)
+* Bradford Telegraph & Argus: [Concerns over low use of Stalking Protection Orders in West Yorkshire](https://www.thetelegraphandargus.co.uk/news/19376883.concerns-low-use-stalking-protection-orders-west-yorkshire/) *17 June 2021*
+* Derby Telegraph: [Huge increase in stalking across Derby and Derbyshire](https://www.derbytelegraph.co.uk/news/derbyshire-police-not-using-stalking-5523734) *15 June 2021*
+* Devon Live: [Police 'could do better' to help increasing number of stalking victims in Devon](https://www.devonlive.com/news/devon-news/police-could-better-help-increasing-5530766) *15 June 2021*
+* Dorset Echo: [Dorset Police 'not doing enough' to protect stalking victims](https://www.dorsetecho.co.uk/news/19372410.dorset-police-not-enough-protect-stalking-victims/) *15 June 2021*
+* East Anglian Daily Time ['I was scared to go out': Stalking victim’s anger as police slow to use new powers](https://www.eadt.co.uk/news/crime/stalking-orders-issued-in-suffolk-8056668) *15 June 2021*
+* Eastern Daily Press: ['They did nothing' - Mum's anger after new anti-stalking powers not used](https://www.eadt.co.uk/news/crime/norfolk-police-ridiculous-failure-stalking-protection-orders-8060318) *16 June 2021*
+* Gelding Eye: [Stalking incidents rise rapidly across Notts](https://www.gedlingeye.co.uk/nottinghamshire/stalking-incidents-rise-rapidly-across-notts/) *16 June 2021*
+* Hampshire Chronicle: [Hampshire police fail to use special powers to crack down on stalking](https://www.hampshirechronicle.co.uk/news/crime/19372518.hampshire-police-fail-use-special-powers-crack-stalking/) *15 June 2021*
+* Huddersfield Daily Examiner: [Reports of stalking in South Yorkshire increased by almost 30 percent during last year's lockdowns](https://www.examinerlive.co.uk/news/local-news/reports-stalking-south-yorkshire-increased-20814113) *15 June 2021*
+* Ipswich Star: ['I was scared to go out': Stalking victim’s anger as police slow to use new powers](https://www.ipswichstar.co.uk/news/crime/stalking-orders-issued-in-suffolk-8056668) *15 June 2021*
+* ITV Tyne Tees: [North East police forces used Stalking Protection Orders only 10 times despite incidents rising](https://www.itv.com/news/tyne-tees/2021-06-15/north-east-police-forces-used-stalking-protection-orders-only-10-times-despite-incidents-rising) *15 June 2021*
+* Lancashire Telegraph: [Lancashire: Police fail to use legal powers on over 2000 stalking cases](https://www.lancashiretelegraph.co.uk/news/19365965.lancashire-police-fail-use-legal-powers-2000-stalking-cases/?ref=rss) *15 June 2021*
+* Northampton Chronicle: [Northamptonshire Police has used new power to protect stalking victims just once amid a surge in offences](https://www.northamptonchron.co.uk/news/crime/northamptonshire-police-has-used-new-power-to-protect-stalking-victims-just-once-amid-a-surge-in-offences-3275689) *16 June 2021*
+* Southern Daily Echo: [Hampshire police fail to use special powers to crack down on stalking](https://www.dailyecho.co.uk/news/crime/19372136.hampshire-police-fail-use-special-powers-crack-stalking/) *15 June 2021*
+* Suffolk News: [Stalking Protection Orders not used once by police in Suffolk since January 2020, despite a 182 per cent rise in reports of stalking incidents in the county](https://www.suffolknews.co.uk/ipswich/news/new-legal-power-to-protect-stalking-victims-not-used-once-by-9203262/) *15 June 2021*
+* Yorkshire Evening Post: [West Yorkshire Police force issue just three stalking protection orders despite recording more than 3000 offences](https://www.yorkshireeveningpost.co.uk/news/crime/west-yorkshire-police-force-issue-just-three-stalking-protection-orders-despite-recording-more-than-3000-offences-3272767) *15 June 2021*
+* Yorkshire Live: [Reports of stalking in South Yorkshire increased by almost 30 percent during last year's lockdowns](https://www.examinerlive.co.uk/news/local-news/reports-stalking-south-yorkshire-increased-20814113) *15 June 2021*
+* Yorkshire Post: [Thousands of stalking incidents reported to Yorkshire police last year but only small handful resulted in legal protection orders](https://www.yorkshirepost.co.uk/news/crime/thousands-of-stalking-incidents-reported-to-yorkshire-police-last-year-but-only-small-handful-resulted-in-legal-protection-orders-3272732) *15 June 2021*
 
 The story featured on the BBC font, home and UK pages. It was also used by regional BBC radio stations including:
 
