@@ -53,6 +53,7 @@ The data and background methodology released to partners are available here:
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
 * Bradford Telegraph & Argus: [Concerns over low use of Stalking Protection Orders in West Yorkshire](https://www.thetelegraphandargus.co.uk/news/19376883.concerns-low-use-stalking-protection-orders-west-yorkshire/) *17 June 2021*
+* Cambridgeshire Live: [Cambs police not using extra powers to help stalking victims, new data shows](https://www.cambridge-news.co.uk/news/cambridge-news/cambs-police-not-using-extra-20820892) *22 June 2021*
 * Cheshire Live: [Powers to protect stalking victims not being used in Cheshire, figures show](https://www.cheshire-live.co.uk/news/chester-cheshire-news/powers-protect-stalking-victims-not-20851872) *21 June 2021*
 * Derby Telegraph: [Huge increase in stalking across Derby and Derbyshire](https://www.derbytelegraph.co.uk/news/derbyshire-police-not-using-stalking-5523734) *15 June 2021*
 * Devon Live: [Police 'could do better' to help increasing number of stalking victims in Devon](https://www.devonlive.com/news/devon-news/police-could-better-help-increasing-5530766) *15 June 2021*
